@@ -59,7 +59,8 @@ nav {
 }
 
 .company-logo img {
-    width: 120px;
+    width: 70px;
+    height: auto;
 }
 
 .nav-links ul {
